@@ -19,4 +19,4 @@ Balance and systems-design case studies, with the data behind them: **[artstatio
 
 ---
 
-Full Sail University, game design (4.0 GPA) · aiming at junior systems / QA / AI-operations roles · open to work
+Full Sail University, game design (3.88 GPA) · aiming at junior systems / QA / AI-operations roles · open to work
